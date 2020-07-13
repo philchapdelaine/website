@@ -12,7 +12,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "^3.4.1"
   },
-  "homepage": "http://philchapdelaine.github.io/website",
+  "homepage": "http://philchapdelaine.github.io/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
